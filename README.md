@@ -157,7 +157,7 @@ Allows VIP attendees to view VIP events. If a non-VIP attendee tries this option
 Allow attendees to sign up to conferences. Doing so will allow attendees to view events that they are attending.
  
  
-##Design
+## Design
  
 Our code implements the design rules from Clean Architecture. The UML diagram of this design can be found in the UML file.
 The choice to store the data in the csv files was made to prepare for the implementation for phase 2, as the way the information is processed, is similar to the way databases are used.
