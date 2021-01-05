@@ -15,27 +15,27 @@ All users can;
     [4] Add a contact
     [5] View all contacts
             
-#### Option [1] 
+#### Option [1] - Log Out
  
 Allows them to log out, saving the information they have created in a corresponding csv file, which will be then loaded. If a user does not log out, their information will not be stored.
  
  
-#### Option [2]
+#### Option [2] - Send a Message
  
 Allows them to send a message. The recipients of the messages will differ for each user.
 - Organizers can send messages to all speakers and all attendees of an event, as well as individually
 - Speakers can send messages to all attendees of one event or multiple events, as well as respond to a specific attendee
 - Attendees can send messages to other attendees, as well as view messages that have been sent to them.
  
-#### Option [3] 
+#### Option [3] - View all Messages
  
 Allows users to see all the messages that have been sent, and are able to reply to them, categorized by users. 
  
-#### Option [4]
+#### Option [4] - Add a Contact
  
 Allows users to add any contact they want.
  
-#### Option [5] 
+#### Option [5] - View all Contacts
  
 Allows users to view all the contacts they have already added.
             
